@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navigation{
+ gap: 10px;
+ margin-left: 680px;
+ font-size: large;
+}
+.blacky{
+    width: 100%;
+}
+
+.headicon{
+    gap: 100px;
+}
+.logo{
+    margin-left: 40px ;
+    margin-top: 15px;
+}
+.lazza{
+    width: 120px;
+    height: 66px;
+}
+.h1tag{
+    font: size 300px ;
+}
+.whitescreen{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.treasurefeelpic{
+width: 1450px;
+}
+.footerlastpic{
+    width: 160px;
+}
+.footer-icon-1{
+    width: 150px;
+}
+.footer-icon-2{
+    width: 120px;
+}
+.col-md-2{
+    padding: 10px 10px;
+}
+.nav-item :hover{
+    cursor: pointer;
+}
+.icons :hover{
+ cursor: pointer;
+}
